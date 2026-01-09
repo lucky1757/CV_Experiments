@@ -1,0 +1,8 @@
+path: D:/OneDrive - mail.hfut.edu.cn/Attachments/大学/大三上/机器视觉/实验/实验代码/实验四/exp4/exp4/vehicle3
+train: images/train
+val: images/val
+
+names:
+  0: bicycle
+  1: e-bike
+  2: car
